@@ -1,12 +1,12 @@
-AppVault
+# AppVault
 
 Live Link: https://appvault-rabbi.netlify.app/
 
-Project Overview
+## Project Overview
 
 AppVault is a mobile app showcase and download platform that allows users to explore a variety of apps, check ratings, and install their favorites. The app provides a clean and user-friendly interface for discovering mobile applications, with key features like real-time search, app details, and local storage for installed apps.
 
-Key Features
+## Key Features
 
 Header:
 
@@ -58,7 +58,7 @@ Option to uninstall apps and sort by downloads.
 
 Persistent data using LocalStorage to retain installed apps even after app refreshes.
 
-Technologies Used
+## Technologies Used
 
 React: Frontend JavaScript framework for building the user interface.
 
@@ -74,7 +74,7 @@ LocalStorage: Used for persisting data about installed apps.
 
 React Toastify: Used to display notifications for actions like install/uninstall.
 
-Run the Project Locally
+## Run the Project Locally
 
 To run the project locally, follow the steps below:
 
