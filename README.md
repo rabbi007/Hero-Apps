@@ -10,7 +10,7 @@ AppVault is a mobile app showcase and download platform that allows users to exp
 
 ## Key Features
 
-Header:
+### Header:
 
 Logo that navigates to the home page.
 
@@ -18,7 +18,7 @@ Navigation Links for Home, Apps, and Installation.
 
 GitHub Contribution Button for easy access to the project's source code.
 
-Home Page:
+### Home Page:
 
 A banner with buttons for the App Store & Play Store.
 
@@ -26,7 +26,7 @@ Display of Top Apps in a 4-column layout.
 
 Show All button to explore more apps.
 
-All Apps Page:
+### All Apps Page:
 
 A searchable list of apps.
 
@@ -34,7 +34,7 @@ Live filtering options for sorting apps based on categories, ratings, etc.
 
 No-match message when no results are found.
 
-App Details:
+### App Details:
 
 Detailed app information with features and ratings.
 
@@ -44,7 +44,7 @@ Review chart using Recharts to display user ratings.
 
 App description to help users understand the app's functionality.
 
-Error & Loading States:
+### Error & Loading States:
 
 Custom error page for non-existent pages.
 
@@ -52,7 +52,7 @@ Loading animations during data fetch.
 
 "Not Found" messages for empty or incorrect routes.
 
-LocalStorage Integration:
+### LocalStorage Integration:
 
 My Installation Page where users can see their installed apps.
 
@@ -102,7 +102,7 @@ npm start
 
 The app should now be accessible in your browser at http://localhost:5173/.
 
-Notes
+### Notes
 
 Make sure Node.js and npm are installed on your machine.
 
